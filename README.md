@@ -16,3 +16,13 @@
 
 - creer un fichier html
 - editier un fichier html
+
+13/02 : 18:22
+
+- html
+  - list
+  - button
+  - link
+  - class id
+- css
+  - background
