@@ -26,3 +26,9 @@
   - class id
 - css
   - background
+
+06/03 : 20:28
+
+- div
+- img html
+- css margin, diplay, selecteur
